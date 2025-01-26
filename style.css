@@ -13,7 +13,10 @@ body {
     height: 100vh; /* Make the container full viewport height */
 }
 
-
+#image-container {
+    
+    /* This container will hold the images */
+}
 
 #question {
     font-family: 'Sacramento', cursive; /* Apply Sacramento font to the question */
